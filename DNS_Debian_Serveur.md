@@ -10,7 +10,7 @@
 
 * Déclaration des zones DNS
 
-![DNS_zone_directe_debian](Ressources/DNS_Devian_Serveur:DNS_zone_directe_debian.png)
+![DNS_zone_directe_debian](Ressources/DNS_Devian_Serveur/DNS_zone_directe_debian.png)
 
 * Zone directe avvec les alias
 
