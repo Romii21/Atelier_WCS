@@ -1,2 +1,344 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<Events><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='Microsoft-Windows-DNS-Server-Service' Guid='{71a551f5-c893-4849-886b-b5ec8502641e}'/><EventID>4</EventID><Version>0</Version><Level>4</Level><Task>0</Task><Opcode>0</Opcode><Keywords>0x8000000000000010</Keywords><TimeCreated SystemTime='2026-02-03T09:56:32.5460211Z'/><EventRecordID>97</EventRecordID><Correlation/><Execution ProcessID='2968' ThreadID='4940'/><Channel>DNS Server</Channel><Computer>LAB-MS-01.lab.lan</Computer><Security UserID='S-1-5-18'/></System><EventData Name='DNS_EVENT_ZONE_LOAD_COMPLETE'></EventData></Event><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='Microsoft-Windows-DNS-Server-Service' Guid='{71a551f5-c893-4849-886b-b5ec8502641e}'/><EventID>2</EventID><Version>0</Version><Level>4</Level><Task>0</Task><Opcode>0</Opcode><Keywords>0x8000000000001000</Keywords><TimeCreated SystemTime='2026-02-03T09:56:32.1807983Z'/><EventRecordID>96</EventRecordID><Correlation/><Execution ProcessID='2968' ThreadID='3180'/><Channel>DNS Server</Channel><Computer>LAB-MS-01.lab.lan</Computer><Security UserID='S-1-5-18'/></System><EventData Name='DNS_EVENT_STARTUP_OK'></EventData></Event><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='Microsoft-Windows-DNS-Server-Service' Guid='{71a551f5-c893-4849-886b-b5ec8502641e}'/><EventID>4</EventID><Version>0</Version><Level>4</Level><Task>0</Task><Opcode>0</Opcode><Keywords>0x8000000000000010</Keywords><TimeCreated SystemTime='2026-02-01T10:02:51.8602757Z'/><EventRecordID>87</EventRecordID><Correlation/><Execution ProcessID='2892' ThreadID='5028'/><Channel>DNS Server</Channel><Computer>LAB-MS-01.lab.lan</Computer><Security UserID='S-1-5-18'/></System><EventData Name='DNS_EVENT_ZONE_LOAD_COMPLETE'></EventData></Event><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='Microsoft-Windows-DNS-Server-Service' Guid='{71a551f5-c893-4849-886b-b5ec8502641e}'/><EventID>2</EventID><Version>0</Version><Level>4</Level><Task>0</Task><Opcode>0</Opcode><Keywords>0x8000000000001000</Keywords><TimeCreated SystemTime='2026-02-01T10:02:51.4366083Z'/><EventRecordID>86</EventRecordID><Correlation/><Execution ProcessID='2892' ThreadID='3132'/><Channel>DNS Server</Channel><Computer>LAB-MS-01.lab.lan</Computer><Security UserID='S-1-5-18'/></System><EventData Name='DNS_EVENT_STARTUP_OK'></EventData></Event><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='Microsoft-Windows-DNS-Server-Service' Guid='{71a551f5-c893-4849-886b-b5ec8502641e}'/><EventID>4</EventID><Version>0</Version><Level>4</Level><Task>0</Task><Opcode>0</Opcode><Keywords>0x8000000000000010</Keywords><TimeCreated SystemTime='2026-02-01T09:14:24.8590080Z'/><EventRecordID>77</EventRecordID><Correlation/><Execution ProcessID='2172' ThreadID='5036'/><Channel>DNS Server</Channel><Computer>LAB-MS-01.lab.lan</Computer><Security UserID='S-1-5-18'/></System><EventData Name='DNS_EVENT_ZONE_LOAD_COMPLETE'></EventData></Event><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='Microsoft-Windows-DNS-Server-Service' Guid='{71a551f5-c893-4849-886b-b5ec8502641e}'/><EventID>2</EventID><Version>0</Version><Level>4</Level><Task>0</Task><Opcode>0</Opcode><Keywords>0x8000000000001000</Keywords><TimeCreated SystemTime='2026-02-01T09:14:24.4804715Z'/><EventRecordID>76</EventRecordID><Correlation/><Execution ProcessID='2172' ThreadID='3140'/><Channel>DNS Server</Channel><Computer>LAB-MS-01.lab.lan</Computer><Security UserID='S-1-5-18'/></System><EventData Name='DNS_EVENT_STARTUP_OK'></EventData></Event><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='Microsoft-Windows-DNS-Server-Service' Guid='{71a551f5-c893-4849-886b-b5ec8502641e}'/><EventID>4</EventID><Version>0</Version><Level>4</Level><Task>0</Task><Opcode>0</Opcode><Keywords>0x8000000000000010</Keywords><TimeCreated SystemTime='2026-01-31T21:16:31.5291598Z'/><EventRecordID>67</EventRecordID><Correlation/><Execution ProcessID='1432' ThreadID='4948'/><Channel>DNS Server</Channel><Computer>LAB-MS-01.lab.lan</Computer><Security UserID='S-1-5-18'/></System><EventData Name='DNS_EVENT_ZONE_LOAD_COMPLETE'></EventData></Event><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='Microsoft-Windows-DNS-Server-Service' Guid='{71a551f5-c893-4849-886b-b5ec8502641e}'/><EventID>2</EventID><Version>0</Version><Level>4</Level><Task>0</Task><Opcode>0</Opcode><Keywords>0x8000000000001000</Keywords><TimeCreated SystemTime='2026-01-31T21:16:30.9347507Z'/><EventRecordID>66</EventRecordID><Correlation/><Execution ProcessID='1432' ThreadID='3208'/><Channel>DNS Server</Channel><Computer>LAB-MS-01.lab.lan</Computer><Security UserID='S-1-5-18'/></System><EventData Name='DNS_EVENT_STARTUP_OK'></EventData></Event><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='Microsoft-Windows-DNS-Server-Service' Guid='{71a551f5-c893-4849-886b-b5ec8502641e}'/><EventID>4</EventID><Version>0</Version><Level>4</Level><Task>0</Task><Opcode>0</Opcode><Keywords>0x8000000000000010</Keywords><TimeCreated SystemTime='2026-01-31T16:34:07.4160692Z'/><EventRecordID>57</EventRecordID><Correlation/><Execution ProcessID='2820' ThreadID='3920'/><Channel>DNS Server</Channel><Computer>LAB-MS-01.lab.lan</Computer><Security UserID='S-1-5-18'/></System><EventData Name='DNS_EVENT_ZONE_LOAD_COMPLETE'></EventData></Event><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='Microsoft-Windows-DNS-Server-Service' Guid='{71a551f5-c893-4849-886b-b5ec8502641e}'/><EventID>2</EventID><Version>0</Version><Level>4</Level><Task>0</Task><Opcode>0</Opcode><Keywords>0x8000000000001000</Keywords><TimeCreated SystemTime='2026-01-31T16:34:06.8398336Z'/><EventRecordID>56</EventRecordID><Correlation/><Execution ProcessID='2820' ThreadID='3232'/><Channel>DNS Server</Channel><Computer>LAB-MS-01.lab.lan</Computer><Security UserID='S-1-5-18'/></System><EventData Name='DNS_EVENT_STARTUP_OK'></EventData></Event><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='Microsoft-Windows-DNS-Server-Service' Guid='{71a551f5-c893-4849-886b-b5ec8502641e}'/><EventID>4</EventID><Version>0</Version><Level>4</Level><Task>0</Task><Opcode>0</Opcode><Keywords>0x8000000000000010</Keywords><TimeCreated SystemTime='2026-01-31T14:35:19.2380218Z'/><EventRecordID>47</EventRecordID><Correlation/><Execution ProcessID='2892' ThreadID='4120'/><Channel>DNS Server</Channel><Computer>LAB-MS-01.lab.lan</Computer><Security UserID='S-1-5-18'/></System><EventData Name='DNS_EVENT_ZONE_LOAD_COMPLETE'></EventData></Event><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='Microsoft-Windows-DNS-Server-Service' Guid='{71a551f5-c893-4849-886b-b5ec8502641e}'/><EventID>2</EventID><Version>0</Version><Level>4</Level><Task>0</Task><Opcode>0</Opcode><Keywords>0x8000000000001000</Keywords><TimeCreated SystemTime='2026-01-31T14:35:18.6676973Z'/><EventRecordID>46</EventRecordID><Correlation/><Execution ProcessID='2892' ThreadID='3184'/><Channel>DNS Server</Channel><Computer>LAB-MS-01.lab.lan</Computer><Security UserID='S-1-5-18'/></System><EventData Name='DNS_EVENT_STARTUP_OK'></EventData></Event><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='Microsoft-Windows-DNS-Server-Service' Guid='{71a551f5-c893-4849-886b-b5ec8502641e}'/><EventID>2</EventID><Version>0</Version><Level>4</Level><Task>0</Task><Opcode>0</Opcode><Keywords>0x8000000000001000</Keywords><TimeCreated SystemTime='2026-01-31T11:39:53.8336821Z'/><EventRecordID>35</EventRecordID><Correlation/><Execution ProcessID='2380' ThreadID='3260'/><Channel>DNS Server</Channel><Computer>LAB-MS-01.lab.lan</Computer><Security UserID='S-1-5-18'/></System><EventData Name='DNS_EVENT_STARTUP_OK'></EventData></Event><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='Microsoft-Windows-DNS-Server-Service' Guid='{71a551f5-c893-4849-886b-b5ec8502641e}'/><EventID>4</EventID><Version>0</Version><Level>4</Level><Task>0</Task><Opcode>0</Opcode><Keywords>0x8000000000000010</Keywords><TimeCreated SystemTime='2026-01-31T11:39:53.4127196Z'/><EventRecordID>34</EventRecordID><Correlation/><Execution ProcessID='2380' ThreadID='3260'/><Channel>DNS Server</Channel><Computer>LAB-MS-01.lab.lan</Computer><Security UserID='S-1-5-18'/></System><EventData Name='DNS_EVENT_ZONE_LOAD_COMPLETE'></EventData></Event><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='Microsoft-Windows-DNS-Server-Service' Guid='{71a551f5-c893-4849-886b-b5ec8502641e}'/><EventID>2</EventID><Version>0</Version><Level>4</Level><Task>0</Task><Opcode>0</Opcode><Keywords>0x8000000000001000</Keywords><TimeCreated SystemTime='2026-01-31T11:11:14.3773008Z'/><EventRecordID>21</EventRecordID><Correlation/><Execution ProcessID='2540' ThreadID='2912'/><Channel>DNS Server</Channel><Computer>LAB-MS-01</Computer><Security UserID='S-1-5-18'/></System><EventData Name='DNS_EVENT_STARTUP_OK'></EventData></Event><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='Microsoft-Windows-DNS-Server-Service' Guid='{71a551f5-c893-4849-886b-b5ec8502641e}'/><EventID>4</EventID><Version>0</Version><Level>4</Level><Task>0</Task><Opcode>0</Opcode><Keywords>0x8000000000000010</Keywords><TimeCreated SystemTime='2026-01-31T11:11:14.2036976Z'/><EventRecordID>20</EventRecordID><Correlation/><Execution ProcessID='2540' ThreadID='2912'/><Channel>DNS Server</Channel><Computer>LAB-MS-01</Computer><Security UserID='S-1-5-18'/></System><EventData Name='DNS_EVENT_ZONE_LOAD_COMPLETE'></EventData></Event><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='Microsoft-Windows-DNS-Server-Service' Guid='{71a551f5-c893-4849-886b-b5ec8502641e}'/><EventID>2</EventID><Version>0</Version><Level>4</Level><Task>0</Task><Opcode>0</Opcode><Keywords>0x8000000000001000</Keywords><TimeCreated SystemTime='2026-01-31T09:46:03.7274870Z'/><EventRecordID>9</EventRecordID><Correlation/><Execution ProcessID='2556' ThreadID='3060'/><Channel>DNS Server</Channel><Computer>LAB-MS-01</Computer><Security UserID='S-1-5-18'/></System><EventData Name='DNS_EVENT_STARTUP_OK'></EventData></Event><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='Microsoft-Windows-DNS-Server-Service' Guid='{71a551f5-c893-4849-886b-b5ec8502641e}'/><EventID>2</EventID><Version>0</Version><Level>4</Level><Task>0</Task><Opcode>0</Opcode><Keywords>0x8000000000001000</Keywords><TimeCreated SystemTime='2026-01-31T18:42:03.5833488Z'/><EventRecordID>4</EventRecordID><Correlation/><Execution ProcessID='2316' ThreadID='2828'/><Channel>DNS Server</Channel><Computer>LAB-MS-01</Computer><Security UserID='S-1-5-18'/></System><EventData Name='DNS_EVENT_STARTUP_OK'></EventData></Event></Events>
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+<System>
+<Provider Name="Microsoft-Windows-DNS-Server-Service" Guid="{71a551f5-c893-4849-886b-b5ec8502641e}"/>
+<EventID>4</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000010</Keywords>
+<TimeCreated SystemTime="2026-02-03T09:56:32.5460211Z"/>
+<EventRecordID>97</EventRecordID>
+<Correlation/>
+<Execution ProcessID="2968" ThreadID="4940"/>
+<Channel>DNS Server</Channel>
+<Computer>LAB-MS-01.lab.lan</Computer>
+<Security UserID="S-1-5-18"/>
+</System>
+<EventData Name="DNS_EVENT_ZONE_LOAD_COMPLETE"/>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+<System>
+<Provider Name="Microsoft-Windows-DNS-Server-Service" Guid="{71a551f5-c893-4849-886b-b5ec8502641e}"/>
+<EventID>2</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000001000</Keywords>
+<TimeCreated SystemTime="2026-02-03T09:56:32.1807983Z"/>
+<EventRecordID>96</EventRecordID>
+<Correlation/>
+<Execution ProcessID="2968" ThreadID="3180"/>
+<Channel>DNS Server</Channel>
+<Computer>LAB-MS-01.lab.lan</Computer>
+<Security UserID="S-1-5-18"/>
+</System>
+<EventData Name="DNS_EVENT_STARTUP_OK"/>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+<System>
+<Provider Name="Microsoft-Windows-DNS-Server-Service" Guid="{71a551f5-c893-4849-886b-b5ec8502641e}"/>
+<EventID>4</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000010</Keywords>
+<TimeCreated SystemTime="2026-02-01T10:02:51.8602757Z"/>
+<EventRecordID>87</EventRecordID>
+<Correlation/>
+<Execution ProcessID="2892" ThreadID="5028"/>
+<Channel>DNS Server</Channel>
+<Computer>LAB-MS-01.lab.lan</Computer>
+<Security UserID="S-1-5-18"/>
+</System>
+<EventData Name="DNS_EVENT_ZONE_LOAD_COMPLETE"/>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+<System>
+<Provider Name="Microsoft-Windows-DNS-Server-Service" Guid="{71a551f5-c893-4849-886b-b5ec8502641e}"/>
+<EventID>2</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000001000</Keywords>
+<TimeCreated SystemTime="2026-02-01T10:02:51.4366083Z"/>
+<EventRecordID>86</EventRecordID>
+<Correlation/>
+<Execution ProcessID="2892" ThreadID="3132"/>
+<Channel>DNS Server</Channel>
+<Computer>LAB-MS-01.lab.lan</Computer>
+<Security UserID="S-1-5-18"/>
+</System>
+<EventData Name="DNS_EVENT_STARTUP_OK"/>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+<System>
+<Provider Name="Microsoft-Windows-DNS-Server-Service" Guid="{71a551f5-c893-4849-886b-b5ec8502641e}"/>
+<EventID>4</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000010</Keywords>
+<TimeCreated SystemTime="2026-02-01T09:14:24.8590080Z"/>
+<EventRecordID>77</EventRecordID>
+<Correlation/>
+<Execution ProcessID="2172" ThreadID="5036"/>
+<Channel>DNS Server</Channel>
+<Computer>LAB-MS-01.lab.lan</Computer>
+<Security UserID="S-1-5-18"/>
+</System>
+<EventData Name="DNS_EVENT_ZONE_LOAD_COMPLETE"/>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+<System>
+<Provider Name="Microsoft-Windows-DNS-Server-Service" Guid="{71a551f5-c893-4849-886b-b5ec8502641e}"/>
+<EventID>2</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000001000</Keywords>
+<TimeCreated SystemTime="2026-02-01T09:14:24.4804715Z"/>
+<EventRecordID>76</EventRecordID>
+<Correlation/>
+<Execution ProcessID="2172" ThreadID="3140"/>
+<Channel>DNS Server</Channel>
+<Computer>LAB-MS-01.lab.lan</Computer>
+<Security UserID="S-1-5-18"/>
+</System>
+<EventData Name="DNS_EVENT_STARTUP_OK"/>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+<System>
+<Provider Name="Microsoft-Windows-DNS-Server-Service" Guid="{71a551f5-c893-4849-886b-b5ec8502641e}"/>
+<EventID>4</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000010</Keywords>
+<TimeCreated SystemTime="2026-01-31T21:16:31.5291598Z"/>
+<EventRecordID>67</EventRecordID>
+<Correlation/>
+<Execution ProcessID="1432" ThreadID="4948"/>
+<Channel>DNS Server</Channel>
+<Computer>LAB-MS-01.lab.lan</Computer>
+<Security UserID="S-1-5-18"/>
+</System>
+<EventData Name="DNS_EVENT_ZONE_LOAD_COMPLETE"/>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+<System>
+<Provider Name="Microsoft-Windows-DNS-Server-Service" Guid="{71a551f5-c893-4849-886b-b5ec8502641e}"/>
+<EventID>2</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000001000</Keywords>
+<TimeCreated SystemTime="2026-01-31T21:16:30.9347507Z"/>
+<EventRecordID>66</EventRecordID>
+<Correlation/>
+<Execution ProcessID="1432" ThreadID="3208"/>
+<Channel>DNS Server</Channel>
+<Computer>LAB-MS-01.lab.lan</Computer>
+<Security UserID="S-1-5-18"/>
+</System>
+<EventData Name="DNS_EVENT_STARTUP_OK"/>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+<System>
+<Provider Name="Microsoft-Windows-DNS-Server-Service" Guid="{71a551f5-c893-4849-886b-b5ec8502641e}"/>
+<EventID>4</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000010</Keywords>
+<TimeCreated SystemTime="2026-01-31T16:34:07.4160692Z"/>
+<EventRecordID>57</EventRecordID>
+<Correlation/>
+<Execution ProcessID="2820" ThreadID="3920"/>
+<Channel>DNS Server</Channel>
+<Computer>LAB-MS-01.lab.lan</Computer>
+<Security UserID="S-1-5-18"/>
+</System>
+<EventData Name="DNS_EVENT_ZONE_LOAD_COMPLETE"/>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+<System>
+<Provider Name="Microsoft-Windows-DNS-Server-Service" Guid="{71a551f5-c893-4849-886b-b5ec8502641e}"/>
+<EventID>2</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000001000</Keywords>
+<TimeCreated SystemTime="2026-01-31T16:34:06.8398336Z"/>
+<EventRecordID>56</EventRecordID>
+<Correlation/>
+<Execution ProcessID="2820" ThreadID="3232"/>
+<Channel>DNS Server</Channel>
+<Computer>LAB-MS-01.lab.lan</Computer>
+<Security UserID="S-1-5-18"/>
+</System>
+<EventData Name="DNS_EVENT_STARTUP_OK"/>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+<System>
+<Provider Name="Microsoft-Windows-DNS-Server-Service" Guid="{71a551f5-c893-4849-886b-b5ec8502641e}"/>
+<EventID>4</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000010</Keywords>
+<TimeCreated SystemTime="2026-01-31T14:35:19.2380218Z"/>
+<EventRecordID>47</EventRecordID>
+<Correlation/>
+<Execution ProcessID="2892" ThreadID="4120"/>
+<Channel>DNS Server</Channel>
+<Computer>LAB-MS-01.lab.lan</Computer>
+<Security UserID="S-1-5-18"/>
+</System>
+<EventData Name="DNS_EVENT_ZONE_LOAD_COMPLETE"/>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+<System>
+<Provider Name="Microsoft-Windows-DNS-Server-Service" Guid="{71a551f5-c893-4849-886b-b5ec8502641e}"/>
+<EventID>2</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000001000</Keywords>
+<TimeCreated SystemTime="2026-01-31T14:35:18.6676973Z"/>
+<EventRecordID>46</EventRecordID>
+<Correlation/>
+<Execution ProcessID="2892" ThreadID="3184"/>
+<Channel>DNS Server</Channel>
+<Computer>LAB-MS-01.lab.lan</Computer>
+<Security UserID="S-1-5-18"/>
+</System>
+<EventData Name="DNS_EVENT_STARTUP_OK"/>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+<System>
+<Provider Name="Microsoft-Windows-DNS-Server-Service" Guid="{71a551f5-c893-4849-886b-b5ec8502641e}"/>
+<EventID>2</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000001000</Keywords>
+<TimeCreated SystemTime="2026-01-31T11:39:53.8336821Z"/>
+<EventRecordID>35</EventRecordID>
+<Correlation/>
+<Execution ProcessID="2380" ThreadID="3260"/>
+<Channel>DNS Server</Channel>
+<Computer>LAB-MS-01.lab.lan</Computer>
+<Security UserID="S-1-5-18"/>
+</System>
+<EventData Name="DNS_EVENT_STARTUP_OK"/>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+<System>
+<Provider Name="Microsoft-Windows-DNS-Server-Service" Guid="{71a551f5-c893-4849-886b-b5ec8502641e}"/>
+<EventID>4</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000010</Keywords>
+<TimeCreated SystemTime="2026-01-31T11:39:53.4127196Z"/>
+<EventRecordID>34</EventRecordID>
+<Correlation/>
+<Execution ProcessID="2380" ThreadID="3260"/>
+<Channel>DNS Server</Channel>
+<Computer>LAB-MS-01.lab.lan</Computer>
+<Security UserID="S-1-5-18"/>
+</System>
+<EventData Name="DNS_EVENT_ZONE_LOAD_COMPLETE"/>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+<System>
+<Provider Name="Microsoft-Windows-DNS-Server-Service" Guid="{71a551f5-c893-4849-886b-b5ec8502641e}"/>
+<EventID>2</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000001000</Keywords>
+<TimeCreated SystemTime="2026-01-31T11:11:14.3773008Z"/>
+<EventRecordID>21</EventRecordID>
+<Correlation/>
+<Execution ProcessID="2540" ThreadID="2912"/>
+<Channel>DNS Server</Channel>
+<Computer>LAB-MS-01</Computer>
+<Security UserID="S-1-5-18"/>
+</System>
+<EventData Name="DNS_EVENT_STARTUP_OK"/>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+<System>
+<Provider Name="Microsoft-Windows-DNS-Server-Service" Guid="{71a551f5-c893-4849-886b-b5ec8502641e}"/>
+<EventID>4</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000000010</Keywords>
+<TimeCreated SystemTime="2026-01-31T11:11:14.2036976Z"/>
+<EventRecordID>20</EventRecordID>
+<Correlation/>
+<Execution ProcessID="2540" ThreadID="2912"/>
+<Channel>DNS Server</Channel>
+<Computer>LAB-MS-01</Computer>
+<Security UserID="S-1-5-18"/>
+</System>
+<EventData Name="DNS_EVENT_ZONE_LOAD_COMPLETE"/>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+<System>
+<Provider Name="Microsoft-Windows-DNS-Server-Service" Guid="{71a551f5-c893-4849-886b-b5ec8502641e}"/>
+<EventID>2</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000001000</Keywords>
+<TimeCreated SystemTime="2026-01-31T09:46:03.7274870Z"/>
+<EventRecordID>9</EventRecordID>
+<Correlation/>
+<Execution ProcessID="2556" ThreadID="3060"/>
+<Channel>DNS Server</Channel>
+<Computer>LAB-MS-01</Computer>
+<Security UserID="S-1-5-18"/>
+</System>
+<EventData Name="DNS_EVENT_STARTUP_OK"/>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+<System>
+<Provider Name="Microsoft-Windows-DNS-Server-Service" Guid="{71a551f5-c893-4849-886b-b5ec8502641e}"/>
+<EventID>2</EventID>
+<Version>0</Version>
+<Level>4</Level>
+<Task>0</Task>
+<Opcode>0</Opcode>
+<Keywords>0x8000000000001000</Keywords>
+<TimeCreated SystemTime="2026-01-31T18:42:03.5833488Z"/>
+<EventRecordID>4</EventRecordID>
+<Correlation/>
+<Execution ProcessID="2316" ThreadID="2828"/>
+<Channel>DNS Server</Channel>
+<Computer>LAB-MS-01</Computer>
+<Security UserID="S-1-5-18"/>
+</System>
+<EventData Name="DNS_EVENT_STARTUP_OK"/>
+</Event>
+</Events>
